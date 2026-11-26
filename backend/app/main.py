@@ -1,5 +1,12 @@
 """OMNIS-X FastAPI Application Entry Point."""
 
+import sys
+from pathlib import Path
+
+_BACKEND_DIR = Path(__file__).resolve().parent.parent
+if str(_BACKEND_DIR) not in sys.path:
+    sys.path.insert(0, str(_BACKEND_DIR))
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -25,7 +32,7 @@ app.add_middleware(
         "http://localhost:5174",
         "http://127.0.0.1:5174",
     ],
-    allow_origin_regex=r"https?://(localhost|127\.0\.0\.1)(:\d+)?",
+    allow_origin_regex=r"https?://(localhost|127\.0\.0\.1)(:\d+)?|https://[a-zA-Z0-9-]+\.vercel\.app",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

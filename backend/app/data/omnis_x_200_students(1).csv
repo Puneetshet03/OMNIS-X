@@ -1,0 +1,201 @@
+student_id,usn,student_name,department,semester,section,email,attendance_percent,cgpa,classroom_id,lab_id,mentor_id,residence_type,hostel_room,bus_route,exam_status,placement_status,student_status
+STU-001,DEMO26CSE001,Vijay Bhat,CSE,1,A,student001@example.com,93,,ROOM-CSE-1-A,LAB-CSE-1,FAC-CSE-1,Day Scholar,,BUS-03,Eligible,Not Applicable,Active
+STU-002,DEMO26CSE002,Arjun Bhat,CSE,1,A,student002@example.com,72,,ROOM-CSE-1-A,LAB-CSE-2,FAC-CSE-1,Day Scholar,,BUS-04,Attendance Review,Not Applicable,Active
+STU-003,DEMO26CSE003,Aditya Gowda,CSE,1,A,student003@example.com,79,,ROOM-CSE-1-A,LAB-CSE-1,FAC-CSE-1,Hostel,H-001,,Eligible,Not Applicable,Active
+STU-004,DEMO26CSE004,Kiran Rao,CSE,1,A,student004@example.com,86,,ROOM-CSE-1-A,LAB-CSE-2,FAC-CSE-1,Hostel,H-001,,Eligible,Not Applicable,Active
+STU-005,DEMO26CSE005,Harish Naik,CSE,1,A,student005@example.com,100,,ROOM-CSE-1-A,LAB-CSE-1,FAC-CSE-1,Hostel,H-002,,Eligible,Not Applicable,Active
+STU-006,DEMO26CSE006,Ganesh Shetty,CSE,1,B,student006@example.com,79,,ROOM-CSE-1-B,LAB-CSE-2,FAC-CSE-1,Hostel,H-002,,Eligible,Not Applicable,Active
+STU-007,DEMO26CSE007,Bhavana Hegde,CSE,1,B,student007@example.com,69,,ROOM-CSE-1-B,LAB-CSE-1,FAC-CSE-1,Hostel,H-002,,Attendance Review,Not Applicable,Active
+STU-008,DEMO26CSE008,Arjun Gowda,CSE,1,B,student008@example.com,79,,ROOM-CSE-1-B,LAB-CSE-2,FAC-CSE-1,Day Scholar,,BUS-01,Eligible,Not Applicable,Active
+STU-009,DEMO26CSE009,Sanjay Murthy,CSE,1,B,student009@example.com,67,,ROOM-CSE-1-B,LAB-CSE-1,FAC-CSE-1,Hostel,H-003,,Attendance Review,Not Applicable,Active
+STU-010,DEMO26CSE010,Anjali Shetty,CSE,1,B,student010@example.com,97,,ROOM-CSE-1-B,LAB-CSE-2,FAC-CSE-1,Day Scholar,,BUS-01,Eligible,Not Applicable,Active
+STU-011,DEMO25CSE011,Suman Gowda,CSE,3,A,student011@example.com,82,8.38,ROOM-CSE-3-A,LAB-CSE-1,FAC-CSE-2,Hostel,H-003,,Eligible,Not Applicable,Active
+STU-012,DEMO25CSE012,Pranav Kulkarni,CSE,3,A,student012@example.com,99,6.07,ROOM-CSE-3-A,LAB-CSE-2,FAC-CSE-2,Hostel,H-003,,Eligible,Not Applicable,Active
+STU-013,DEMO25CSE013,Aditya Kulkarni,CSE,3,A,student013@example.com,95,6.54,ROOM-CSE-3-A,LAB-CSE-1,FAC-CSE-2,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-014,DEMO25CSE014,Aditya Naik,CSE,3,A,student014@example.com,77,5.91,ROOM-CSE-3-A,LAB-CSE-2,FAC-CSE-2,Day Scholar,,BUS-04,Eligible,Not Applicable,Active
+STU-015,DEMO25CSE015,Anjali Bhat,CSE,3,A,student015@example.com,87,7.32,ROOM-CSE-3-A,LAB-CSE-1,FAC-CSE-2,Day Scholar,,BUS-04,Eligible,Not Applicable,Active
+STU-016,DEMO25CSE016,Ganesh Hegde,CSE,3,B,student016@example.com,71,5.76,ROOM-CSE-3-B,LAB-CSE-2,FAC-CSE-2,Day Scholar,,BUS-01,Attendance Review,Not Applicable,Active
+STU-017,DEMO25CSE017,Ganesh Murthy,CSE,3,B,student017@example.com,71,6.57,ROOM-CSE-3-B,LAB-CSE-1,FAC-CSE-2,Day Scholar,,BUS-03,Attendance Review,Not Applicable,Active
+STU-018,DEMO25CSE018,Rohan Joshi,CSE,3,B,student018@example.com,99,7.43,ROOM-CSE-3-B,LAB-CSE-2,FAC-CSE-2,Hostel,H-005,,Eligible,Not Applicable,Active
+STU-019,DEMO25CSE019,Suman Joshi,CSE,3,B,student019@example.com,82,7.49,ROOM-CSE-3-B,LAB-CSE-1,FAC-CSE-2,Day Scholar,,BUS-02,Eligible,Not Applicable,Active
+STU-020,DEMO25CSE020,Aditya Patil,CSE,3,B,student020@example.com,93,8.97,ROOM-CSE-3-B,LAB-CSE-2,FAC-CSE-2,Hostel,H-005,,Eligible,Not Applicable,Active
+STU-021,DEMO24CSE021,Shreya Bhat,CSE,5,A,student021@example.com,68,8.3,ROOM-CSE-5-A,LAB-CSE-1,FAC-CSE-3,Day Scholar,,BUS-01,Attendance Review,Not Applicable,Active
+STU-022,DEMO24CSE022,Divya Hegde,CSE,5,A,student022@example.com,70,9.48,ROOM-CSE-5-A,LAB-CSE-2,FAC-CSE-3,Day Scholar,,BUS-01,Attendance Review,Not Applicable,Active
+STU-023,DEMO24CSE023,Vishal Hegde,CSE,5,A,student023@example.com,75,7.25,ROOM-CSE-5-A,LAB-CSE-1,FAC-CSE-3,Hostel,H-006,,Eligible,Not Applicable,Active
+STU-024,DEMO24CSE024,Pranav Shetty,CSE,5,A,student024@example.com,90,9.38,ROOM-CSE-5-A,LAB-CSE-2,FAC-CSE-3,Day Scholar,,BUS-02,Eligible,Not Applicable,Active
+STU-025,DEMO24CSE025,Ganesh Gowda,CSE,5,A,student025@example.com,89,5.51,ROOM-CSE-5-A,LAB-CSE-1,FAC-CSE-3,Hostel,H-007,,Eligible,Not Applicable,Active
+STU-026,DEMO24CSE026,Priya Murthy,CSE,5,B,student026@example.com,94,6.73,ROOM-CSE-5-B,LAB-CSE-2,FAC-CSE-3,Day Scholar,,BUS-03,Eligible,Not Applicable,Active
+STU-027,DEMO24CSE027,Suman Hegde,CSE,5,B,student027@example.com,96,6.17,ROOM-CSE-5-B,LAB-CSE-1,FAC-CSE-3,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-028,DEMO24CSE028,Kiran Gowda,CSE,5,B,student028@example.com,68,7.99,ROOM-CSE-5-B,LAB-CSE-2,FAC-CSE-3,Day Scholar,,BUS-02,Attendance Review,Not Applicable,Active
+STU-029,DEMO24CSE029,Aarav Patil,CSE,5,B,student029@example.com,85,5.75,ROOM-CSE-5-B,LAB-CSE-1,FAC-CSE-3,Day Scholar,,BUS-01,Eligible,Not Applicable,Active
+STU-030,DEMO24CSE030,Chandan Hegde,CSE,5,B,student030@example.com,97,9.45,ROOM-CSE-5-B,LAB-CSE-2,FAC-CSE-3,Day Scholar,,BUS-04,Eligible,Not Applicable,Active
+STU-031,DEMO23CSE031,Vijay Joshi,CSE,7,A,student031@example.com,68,9.63,ROOM-CSE-7-A,LAB-CSE-1,FAC-CSE-4,Day Scholar,,BUS-02,Attendance Review,Registered,Active
+STU-032,DEMO23CSE032,Megha Shetty,CSE,7,A,student032@example.com,69,8.06,ROOM-CSE-7-A,LAB-CSE-2,FAC-CSE-4,Hostel,H-008,,Attendance Review,Placed,Active
+STU-033,DEMO23CSE033,Varun Gowda,CSE,7,A,student033@example.com,90,6.02,ROOM-CSE-7-A,LAB-CSE-1,FAC-CSE-4,Hostel,H-009,,Eligible,Placed,Active
+STU-034,DEMO23CSE034,Bhavana Murthy,CSE,7,A,student034@example.com,67,8.16,ROOM-CSE-7-A,LAB-CSE-2,FAC-CSE-4,Hostel,H-009,,Attendance Review,Not Registered,Active
+STU-035,DEMO23CSE035,Ganesh Rao,CSE,7,A,student035@example.com,98,6.86,ROOM-CSE-7-A,LAB-CSE-1,FAC-CSE-4,Day Scholar,,Self,Eligible,Not Registered,Active
+STU-036,DEMO23CSE036,Megha Gowda,CSE,7,B,student036@example.com,85,6.53,ROOM-CSE-7-B,LAB-CSE-2,FAC-CSE-4,Hostel,H-009,,Eligible,Not Registered,Active
+STU-037,DEMO23CSE037,Vishal Gowda,CSE,7,B,student037@example.com,84,7.47,ROOM-CSE-7-B,LAB-CSE-1,FAC-CSE-4,Hostel,H-010,,Eligible,Registered,Active
+STU-038,DEMO23CSE038,Vijay Naik,CSE,7,B,student038@example.com,94,8.17,ROOM-CSE-7-B,LAB-CSE-2,FAC-CSE-4,Hostel,H-010,,Eligible,Placed,Active
+STU-039,DEMO23CSE039,Nikhil Shetty,CSE,7,B,student039@example.com,69,7.81,ROOM-CSE-7-B,LAB-CSE-1,FAC-CSE-4,Hostel,H-010,,Attendance Review,Placed,Active
+STU-040,DEMO23CSE040,Anjali Murthy,CSE,7,B,student040@example.com,87,9.29,ROOM-CSE-7-B,LAB-CSE-2,FAC-CSE-4,Day Scholar,,BUS-02,Eligible,Registered,Active
+STU-041,DEMO26ISE001,Nandini Patil,ISE,1,A,student041@example.com,75,,ROOM-ISE-1-A,LAB-ISE-1,FAC-ISE-1,Day Scholar,,BUS-03,Eligible,Not Applicable,Active
+STU-042,DEMO26ISE002,Megha Kulkarni,ISE,1,A,student042@example.com,84,,ROOM-ISE-1-A,LAB-ISE-2,FAC-ISE-1,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-043,DEMO26ISE003,Kavya Naik,ISE,1,A,student043@example.com,65,,ROOM-ISE-1-A,LAB-ISE-1,FAC-ISE-1,Day Scholar,,Self,Attendance Review,Not Applicable,Active
+STU-044,DEMO26ISE004,Akash Gowda,ISE,1,A,student044@example.com,84,,ROOM-ISE-1-A,LAB-ISE-2,FAC-ISE-1,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-045,DEMO26ISE005,Rahul Naik,ISE,1,A,student045@example.com,73,,ROOM-ISE-1-A,LAB-ISE-1,FAC-ISE-1,Day Scholar,,BUS-01,Attendance Review,Not Applicable,Active
+STU-046,DEMO26ISE006,Sanjay Shetty,ISE,1,B,student046@example.com,71,,ROOM-ISE-1-B,LAB-ISE-2,FAC-ISE-1,Day Scholar,,BUS-01,Attendance Review,Not Applicable,Active
+STU-047,DEMO26ISE007,Ashwini Patil,ISE,1,B,student047@example.com,74,,ROOM-ISE-1-B,LAB-ISE-1,FAC-ISE-1,Day Scholar,,Self,Attendance Review,Not Applicable,Active
+STU-048,DEMO26ISE008,Nikhil Patil,ISE,1,B,student048@example.com,78,,ROOM-ISE-1-B,LAB-ISE-2,FAC-ISE-1,Day Scholar,,BUS-03,Eligible,Not Applicable,Active
+STU-049,DEMO26ISE009,Anjali Rao,ISE,1,B,student049@example.com,78,,ROOM-ISE-1-B,LAB-ISE-1,FAC-ISE-1,Day Scholar,,BUS-03,Eligible,Not Applicable,Active
+STU-050,DEMO26ISE010,Shreya Gowda,ISE,1,B,student050@example.com,97,,ROOM-ISE-1-B,LAB-ISE-2,FAC-ISE-1,Day Scholar,,BUS-03,Eligible,Not Applicable,Active
+STU-051,DEMO25ISE011,Lakshmi Rao,ISE,3,A,student051@example.com,68,5.9,ROOM-ISE-3-A,LAB-ISE-1,FAC-ISE-2,Day Scholar,,BUS-03,Attendance Review,Not Applicable,Active
+STU-052,DEMO25ISE012,Nandini Naik,ISE,3,A,student052@example.com,67,5.52,ROOM-ISE-3-A,LAB-ISE-2,FAC-ISE-2,Day Scholar,,BUS-03,Attendance Review,Not Applicable,Active
+STU-053,DEMO25ISE013,Deepak Joshi,ISE,3,A,student053@example.com,81,6.19,ROOM-ISE-3-A,LAB-ISE-1,FAC-ISE-2,Hostel,H-014,,Eligible,Not Applicable,Active
+STU-054,DEMO25ISE014,Ananya Naik,ISE,3,A,student054@example.com,92,7.91,ROOM-ISE-3-A,LAB-ISE-2,FAC-ISE-2,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-055,DEMO25ISE015,Akash Patil,ISE,3,A,student055@example.com,69,9.56,ROOM-ISE-3-A,LAB-ISE-1,FAC-ISE-2,Hostel,H-014,,Attendance Review,Not Applicable,Active
+STU-056,DEMO25ISE016,Ganesh Kulkarni,ISE,3,B,student056@example.com,99,5.65,ROOM-ISE-3-B,LAB-ISE-2,FAC-ISE-2,Day Scholar,,BUS-02,Eligible,Not Applicable,Active
+STU-057,DEMO25ISE017,Kiran Joshi,ISE,3,B,student057@example.com,100,6.14,ROOM-ISE-3-B,LAB-ISE-1,FAC-ISE-2,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-058,DEMO25ISE018,Sneha Hegde,ISE,3,B,student058@example.com,67,6.83,ROOM-ISE-3-B,LAB-ISE-2,FAC-ISE-2,Hostel,H-015,,Attendance Review,Not Applicable,Active
+STU-059,DEMO25ISE019,Vijay Patil,ISE,3,B,student059@example.com,87,6.4,ROOM-ISE-3-B,LAB-ISE-1,FAC-ISE-2,Hostel,H-015,,Eligible,Not Applicable,Active
+STU-060,DEMO25ISE020,Arjun Hegde,ISE,3,B,student060@example.com,71,7.02,ROOM-ISE-3-B,LAB-ISE-2,FAC-ISE-2,Hostel,H-015,,Attendance Review,Not Applicable,Active
+STU-061,DEMO24ISE021,Varun Patil,ISE,5,A,student061@example.com,74,9.48,ROOM-ISE-5-A,LAB-ISE-1,FAC-ISE-3,Day Scholar,,BUS-04,Attendance Review,Not Applicable,Active
+STU-062,DEMO24ISE022,Suman Bhat,ISE,5,A,student062@example.com,75,9.7,ROOM-ISE-5-A,LAB-ISE-2,FAC-ISE-3,Hostel,H-016,,Eligible,Not Applicable,Active
+STU-063,DEMO24ISE023,Rahul Gowda,ISE,5,A,student063@example.com,91,5.61,ROOM-ISE-5-A,LAB-ISE-1,FAC-ISE-3,Hostel,H-016,,Eligible,Not Applicable,Active
+STU-064,DEMO24ISE024,Nandini Kulkarni,ISE,5,A,student064@example.com,91,8.95,ROOM-ISE-5-A,LAB-ISE-2,FAC-ISE-3,Day Scholar,,BUS-03,Eligible,Not Applicable,Active
+STU-065,DEMO24ISE025,Chandan Patil,ISE,5,A,student065@example.com,82,6.18,ROOM-ISE-5-A,LAB-ISE-1,FAC-ISE-3,Day Scholar,,BUS-02,Eligible,Not Applicable,Active
+STU-066,DEMO24ISE026,Nandini Murthy,ISE,5,B,student066@example.com,89,9.25,ROOM-ISE-5-B,LAB-ISE-2,FAC-ISE-3,Day Scholar,,BUS-01,Eligible,Not Applicable,Active
+STU-067,DEMO24ISE027,Nandini Hegde,ISE,5,B,student067@example.com,77,9.01,ROOM-ISE-5-B,LAB-ISE-1,FAC-ISE-3,Day Scholar,,BUS-02,Eligible,Not Applicable,Active
+STU-068,DEMO24ISE028,Divya Bhat,ISE,5,B,student068@example.com,84,9.03,ROOM-ISE-5-B,LAB-ISE-2,FAC-ISE-3,Day Scholar,,BUS-03,Eligible,Not Applicable,Active
+STU-069,DEMO24ISE029,Kavya Kulkarni,ISE,5,B,student069@example.com,79,5.6,ROOM-ISE-5-B,LAB-ISE-1,FAC-ISE-3,Hostel,H-018,,Eligible,Not Applicable,Active
+STU-070,DEMO24ISE030,Ananya Kulkarni,ISE,5,B,student070@example.com,90,6.91,ROOM-ISE-5-B,LAB-ISE-2,FAC-ISE-3,Hostel,H-018,,Eligible,Not Applicable,Active
+STU-071,DEMO23ISE031,Chandan Bhat,ISE,7,A,student071@example.com,82,7.01,ROOM-ISE-7-A,LAB-ISE-1,FAC-ISE-4,Hostel,H-018,,Eligible,Placed,Active
+STU-072,DEMO23ISE032,Vishal Naik,ISE,7,A,student072@example.com,86,9.54,ROOM-ISE-7-A,LAB-ISE-2,FAC-ISE-4,Day Scholar,,Self,Eligible,Registered,Active
+STU-073,DEMO23ISE033,Sanjay Naik,ISE,7,A,student073@example.com,81,5.66,ROOM-ISE-7-A,LAB-ISE-1,FAC-ISE-4,Day Scholar,,BUS-02,Eligible,Placed,Active
+STU-074,DEMO23ISE034,Rahul Kulkarni,ISE,7,A,student074@example.com,85,7.38,ROOM-ISE-7-A,LAB-ISE-2,FAC-ISE-4,Day Scholar,,BUS-03,Eligible,Placed,Active
+STU-075,DEMO23ISE035,Varun Bhat,ISE,7,A,student075@example.com,89,9.37,ROOM-ISE-7-A,LAB-ISE-1,FAC-ISE-4,Hostel,H-019,,Eligible,Registered,Active
+STU-076,DEMO23ISE036,Kavya Joshi,ISE,7,B,student076@example.com,92,5.51,ROOM-ISE-7-B,LAB-ISE-2,FAC-ISE-4,Day Scholar,,BUS-01,Eligible,Placed,Active
+STU-077,DEMO23ISE037,Varun Naik,ISE,7,B,student077@example.com,88,7.35,ROOM-ISE-7-B,LAB-ISE-1,FAC-ISE-4,Day Scholar,,BUS-02,Eligible,Placed,Active
+STU-078,DEMO23ISE038,Manoj Kulkarni,ISE,7,B,student078@example.com,85,8.35,ROOM-ISE-7-B,LAB-ISE-2,FAC-ISE-4,Day Scholar,,Self,Eligible,Registered,Active
+STU-079,DEMO23ISE039,Akash Joshi,ISE,7,B,student079@example.com,97,6.83,ROOM-ISE-7-B,LAB-ISE-1,FAC-ISE-4,Day Scholar,,BUS-03,Eligible,Not Registered,Active
+STU-080,DEMO23ISE040,Ganesh Bhat,ISE,7,B,student080@example.com,83,7.88,ROOM-ISE-7-B,LAB-ISE-2,FAC-ISE-4,Day Scholar,,BUS-04,Eligible,Registered,Active
+STU-081,DEMO26ECE001,Vishal Murthy,ECE,1,A,student081@example.com,76,,ROOM-ECE-1-A,LAB-ECE-1,FAC-ECE-1,Day Scholar,,BUS-04,Eligible,Not Applicable,Active
+STU-082,DEMO26ECE002,Manoj Hegde,ECE,1,A,student082@example.com,84,,ROOM-ECE-1-A,LAB-ECE-2,FAC-ECE-1,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-083,DEMO26ECE003,Pooja Naik,ECE,1,A,student083@example.com,65,,ROOM-ECE-1-A,LAB-ECE-1,FAC-ECE-1,Day Scholar,,Self,Attendance Review,Not Applicable,Active
+STU-084,DEMO26ECE004,Kavya Bhat,ECE,1,A,student084@example.com,78,,ROOM-ECE-1-A,LAB-ECE-2,FAC-ECE-1,Day Scholar,,BUS-03,Eligible,Not Applicable,Active
+STU-085,DEMO26ECE005,Ananya Patil,ECE,1,A,student085@example.com,85,,ROOM-ECE-1-A,LAB-ECE-1,FAC-ECE-1,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-086,DEMO26ECE006,Arjun Shetty,ECE,1,B,student086@example.com,93,,ROOM-ECE-1-B,LAB-ECE-2,FAC-ECE-1,Day Scholar,,BUS-04,Eligible,Not Applicable,Active
+STU-087,DEMO26ECE007,Rahul Patil,ECE,1,B,student087@example.com,97,,ROOM-ECE-1-B,LAB-ECE-1,FAC-ECE-1,Day Scholar,,BUS-02,Eligible,Not Applicable,Active
+STU-088,DEMO26ECE008,Raksha Hegde,ECE,1,B,student088@example.com,70,,ROOM-ECE-1-B,LAB-ECE-2,FAC-ECE-1,Day Scholar,,BUS-02,Attendance Review,Not Applicable,Active
+STU-089,DEMO26ECE009,Kiran Naik,ECE,1,B,student089@example.com,86,,ROOM-ECE-1-B,LAB-ECE-1,FAC-ECE-1,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-090,DEMO26ECE010,Priya Shetty,ECE,1,B,student090@example.com,80,,ROOM-ECE-1-B,LAB-ECE-2,FAC-ECE-1,Hostel,H-023,,Eligible,Not Applicable,Active
+STU-091,DEMO25ECE011,Sneha Murthy,ECE,3,A,student091@example.com,79,8.97,ROOM-ECE-3-A,LAB-ECE-1,FAC-ECE-2,Day Scholar,,BUS-03,Eligible,Not Applicable,Active
+STU-092,DEMO25ECE012,Chandan Rao,ECE,3,A,student092@example.com,66,5.7,ROOM-ECE-3-A,LAB-ECE-2,FAC-ECE-2,Hostel,H-023,,Attendance Review,Not Applicable,Active
+STU-093,DEMO25ECE013,Rohan Shetty,ECE,3,A,student093@example.com,69,7.46,ROOM-ECE-3-A,LAB-ECE-1,FAC-ECE-2,Day Scholar,,Self,Attendance Review,Not Applicable,Active
+STU-094,DEMO25ECE014,Manoj Bhat,ECE,3,A,student094@example.com,77,8.59,ROOM-ECE-3-A,LAB-ECE-2,FAC-ECE-2,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-095,DEMO25ECE015,Harish Bhat,ECE,3,A,student095@example.com,90,6.55,ROOM-ECE-3-A,LAB-ECE-1,FAC-ECE-2,Day Scholar,,BUS-04,Eligible,Not Applicable,Active
+STU-096,DEMO25ECE016,Varun Joshi,ECE,3,B,student096@example.com,71,8.85,ROOM-ECE-3-B,LAB-ECE-2,FAC-ECE-2,Day Scholar,,BUS-01,Attendance Review,Not Applicable,Active
+STU-097,DEMO25ECE017,Priya Kulkarni,ECE,3,B,student097@example.com,76,8.96,ROOM-ECE-3-B,LAB-ECE-1,FAC-ECE-2,Hostel,H-025,,Eligible,Not Applicable,Active
+STU-098,DEMO25ECE018,Rahul Shetty,ECE,3,B,student098@example.com,94,5.72,ROOM-ECE-3-B,LAB-ECE-2,FAC-ECE-2,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-099,DEMO25ECE019,Manoj Shetty,ECE,3,B,student099@example.com,72,7.46,ROOM-ECE-3-B,LAB-ECE-1,FAC-ECE-2,Hostel,H-025,,Attendance Review,Not Applicable,Active
+STU-100,DEMO25ECE020,Sahana Rao,ECE,3,B,student100@example.com,100,8.06,ROOM-ECE-3-B,LAB-ECE-2,FAC-ECE-2,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-101,DEMO24ECE021,Sanjay Rao,ECE,5,A,student101@example.com,97,7.33,ROOM-ECE-5-A,LAB-ECE-1,FAC-ECE-3,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-102,DEMO24ECE022,Ashwini Bhat,ECE,5,A,student102@example.com,75,8.7,ROOM-ECE-5-A,LAB-ECE-2,FAC-ECE-3,Day Scholar,,BUS-04,Eligible,Not Applicable,Active
+STU-103,DEMO24ECE023,Shreya Kulkarni,ECE,5,A,student103@example.com,81,8.73,ROOM-ECE-5-A,LAB-ECE-1,FAC-ECE-3,Day Scholar,,BUS-04,Eligible,Not Applicable,Active
+STU-104,DEMO24ECE024,Sneha Patil,ECE,5,A,student104@example.com,98,7.58,ROOM-ECE-5-A,LAB-ECE-2,FAC-ECE-3,Day Scholar,,BUS-03,Eligible,Not Applicable,Active
+STU-105,DEMO24ECE025,Nikhil Rao,ECE,5,A,student105@example.com,82,7.39,ROOM-ECE-5-A,LAB-ECE-1,FAC-ECE-3,Hostel,H-027,,Eligible,Not Applicable,Active
+STU-106,DEMO24ECE026,Kiran Patil,ECE,5,B,student106@example.com,80,6.67,ROOM-ECE-5-B,LAB-ECE-2,FAC-ECE-3,Day Scholar,,BUS-03,Eligible,Not Applicable,Active
+STU-107,DEMO24ECE027,Rohan Kulkarni,ECE,5,B,student107@example.com,70,6.1,ROOM-ECE-5-B,LAB-ECE-1,FAC-ECE-3,Day Scholar,,Self,Attendance Review,Not Applicable,Active
+STU-108,DEMO24ECE028,Rahul Joshi,ECE,5,B,student108@example.com,89,8.48,ROOM-ECE-5-B,LAB-ECE-2,FAC-ECE-3,Hostel,H-027,,Eligible,Not Applicable,Active
+STU-109,DEMO24ECE029,Nikhil Hegde,ECE,5,B,student109@example.com,69,7.28,ROOM-ECE-5-B,LAB-ECE-1,FAC-ECE-3,Day Scholar,,BUS-02,Attendance Review,Not Applicable,Active
+STU-110,DEMO24ECE030,Kiran Murthy,ECE,5,B,student110@example.com,94,7.29,ROOM-ECE-5-B,LAB-ECE-2,FAC-ECE-3,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-111,DEMO23ECE031,Divya Murthy,ECE,7,A,student111@example.com,91,7.17,ROOM-ECE-7-A,LAB-ECE-1,FAC-ECE-4,Hostel,H-028,,Eligible,Placed,Active
+STU-112,DEMO23ECE032,Rahul Rao,ECE,7,A,student112@example.com,89,7.55,ROOM-ECE-7-A,LAB-ECE-2,FAC-ECE-4,Day Scholar,,BUS-01,Eligible,Not Registered,Active
+STU-113,DEMO23ECE033,Divya Gowda,ECE,7,A,student113@example.com,91,7.81,ROOM-ECE-7-A,LAB-ECE-1,FAC-ECE-4,Day Scholar,,BUS-04,Eligible,Placed,Active
+STU-114,DEMO23ECE034,Deepak Gowda,ECE,7,A,student114@example.com,79,7.6,ROOM-ECE-7-A,LAB-ECE-2,FAC-ECE-4,Day Scholar,,Self,Eligible,Not Registered,Active
+STU-115,DEMO23ECE035,Arjun Kulkarni,ECE,7,A,student115@example.com,66,7.17,ROOM-ECE-7-A,LAB-ECE-1,FAC-ECE-4,Day Scholar,,BUS-04,Attendance Review,Placed,Active
+STU-116,DEMO23ECE036,Rahul Bhat,ECE,7,B,student116@example.com,75,9.11,ROOM-ECE-7-B,LAB-ECE-2,FAC-ECE-4,Day Scholar,,BUS-04,Eligible,Registered,Active
+STU-117,DEMO23ECE037,Kavya Rao,ECE,7,B,student117@example.com,66,9.4,ROOM-ECE-7-B,LAB-ECE-1,FAC-ECE-4,Day Scholar,,Self,Attendance Review,Placed,Active
+STU-118,DEMO23ECE038,Harish Kulkarni,ECE,7,B,student118@example.com,70,8.26,ROOM-ECE-7-B,LAB-ECE-2,FAC-ECE-4,Day Scholar,,BUS-01,Attendance Review,Registered,Active
+STU-119,DEMO23ECE039,Shreya Naik,ECE,7,B,student119@example.com,68,6.62,ROOM-ECE-7-B,LAB-ECE-1,FAC-ECE-4,Day Scholar,,BUS-02,Attendance Review,Not Registered,Active
+STU-120,DEMO23ECE040,Sneha Gowda,ECE,7,B,student120@example.com,94,6.91,ROOM-ECE-7-B,LAB-ECE-2,FAC-ECE-4,Hostel,H-030,,Eligible,Not Registered,Active
+STU-121,DEMO26ME001,Vishal Bhat,ME,1,A,student121@example.com,81,,ROOM-ME-1-A,LAB-ME-1,FAC-ME-1,Day Scholar,,BUS-04,Eligible,Not Applicable,Active
+STU-122,DEMO26ME002,Sahana Hegde,ME,1,A,student122@example.com,95,,ROOM-ME-1-A,LAB-ME-2,FAC-ME-1,Hostel,H-031,,Eligible,Not Applicable,Active
+STU-123,DEMO26ME003,Ananya Murthy,ME,1,A,student123@example.com,99,,ROOM-ME-1-A,LAB-ME-1,FAC-ME-1,Hostel,H-031,,Eligible,Not Applicable,Active
+STU-124,DEMO26ME004,Manoj Rao,ME,1,A,student124@example.com,87,,ROOM-ME-1-A,LAB-ME-2,FAC-ME-1,Hostel,H-031,,Eligible,Not Applicable,Active
+STU-125,DEMO26ME005,Sneha Rao,ME,1,A,student125@example.com,69,,ROOM-ME-1-A,LAB-ME-1,FAC-ME-1,Hostel,H-032,,Attendance Review,Not Applicable,Active
+STU-126,DEMO26ME006,Pooja Gowda,ME,1,B,student126@example.com,66,,ROOM-ME-1-B,LAB-ME-2,FAC-ME-1,Day Scholar,,BUS-01,Attendance Review,Not Applicable,Active
+STU-127,DEMO26ME007,Vijay Hegde,ME,1,B,student127@example.com,77,,ROOM-ME-1-B,LAB-ME-1,FAC-ME-1,Hostel,H-032,,Eligible,Not Applicable,Active
+STU-128,DEMO26ME008,Divya Joshi,ME,1,B,student128@example.com,74,,ROOM-ME-1-B,LAB-ME-2,FAC-ME-1,Hostel,H-032,,Attendance Review,Not Applicable,Active
+STU-129,DEMO26ME009,Lakshmi Gowda,ME,1,B,student129@example.com,73,,ROOM-ME-1-B,LAB-ME-1,FAC-ME-1,Hostel,H-033,,Attendance Review,Not Applicable,Active
+STU-130,DEMO26ME010,Rohan Murthy,ME,1,B,student130@example.com,78,,ROOM-ME-1-B,LAB-ME-2,FAC-ME-1,Day Scholar,,BUS-01,Eligible,Not Applicable,Active
+STU-131,DEMO25ME011,Varun Murthy,ME,3,A,student131@example.com,88,6.22,ROOM-ME-3-A,LAB-ME-1,FAC-ME-2,Day Scholar,,BUS-03,Eligible,Not Applicable,Active
+STU-132,DEMO25ME012,Deepak Bhat,ME,3,A,student132@example.com,75,9.65,ROOM-ME-3-A,LAB-ME-2,FAC-ME-2,Day Scholar,,BUS-01,Eligible,Not Applicable,Active
+STU-133,DEMO25ME013,Pranav Hegde,ME,3,A,student133@example.com,66,9.49,ROOM-ME-3-A,LAB-ME-1,FAC-ME-2,Hostel,H-034,,Attendance Review,Not Applicable,Active
+STU-134,DEMO25ME014,Shreya Hegde,ME,3,A,student134@example.com,90,9.55,ROOM-ME-3-A,LAB-ME-2,FAC-ME-2,Day Scholar,,BUS-04,Eligible,Not Applicable,Active
+STU-135,DEMO25ME015,Sneha Bhat,ME,3,A,student135@example.com,69,8.05,ROOM-ME-3-A,LAB-ME-1,FAC-ME-2,Hostel,H-034,,Attendance Review,Not Applicable,Active
+STU-136,DEMO25ME016,Ashwini Shetty,ME,3,B,student136@example.com,71,8.5,ROOM-ME-3-B,LAB-ME-2,FAC-ME-2,Day Scholar,,BUS-02,Attendance Review,Not Applicable,Active
+STU-137,DEMO25ME017,Kiran Hegde,ME,3,B,student137@example.com,72,8.92,ROOM-ME-3-B,LAB-ME-1,FAC-ME-2,Day Scholar,,Self,Attendance Review,Not Applicable,Active
+STU-138,DEMO25ME018,Aarav Gowda,ME,3,B,student138@example.com,87,7.79,ROOM-ME-3-B,LAB-ME-2,FAC-ME-2,Day Scholar,,BUS-01,Eligible,Not Applicable,Active
+STU-139,DEMO25ME019,Pranav Patil,ME,3,B,student139@example.com,69,7.68,ROOM-ME-3-B,LAB-ME-1,FAC-ME-2,Day Scholar,,BUS-03,Attendance Review,Not Applicable,Active
+STU-140,DEMO25ME020,Nandini Shetty,ME,3,B,student140@example.com,91,9.04,ROOM-ME-3-B,LAB-ME-2,FAC-ME-2,Day Scholar,,BUS-01,Eligible,Not Applicable,Active
+STU-141,DEMO24ME021,Akash Murthy,ME,5,A,student141@example.com,92,9.63,ROOM-ME-5-A,LAB-ME-1,FAC-ME-3,Hostel,H-036,,Eligible,Not Applicable,Active
+STU-142,DEMO24ME022,Pooja Hegde,ME,5,A,student142@example.com,74,7.37,ROOM-ME-5-A,LAB-ME-2,FAC-ME-3,Day Scholar,,BUS-04,Attendance Review,Not Applicable,Active
+STU-143,DEMO24ME023,Rohan Patil,ME,5,A,student143@example.com,82,8.15,ROOM-ME-5-A,LAB-ME-1,FAC-ME-3,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-144,DEMO24ME024,Nikhil Gowda,ME,5,A,student144@example.com,94,7.37,ROOM-ME-5-A,LAB-ME-2,FAC-ME-3,Day Scholar,,BUS-04,Eligible,Not Applicable,Active
+STU-145,DEMO24ME025,Ashwini Joshi,ME,5,A,student145@example.com,82,6.89,ROOM-ME-5-A,LAB-ME-1,FAC-ME-3,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-146,DEMO24ME026,Rohan Gowda,ME,5,B,student146@example.com,70,6.7,ROOM-ME-5-B,LAB-ME-2,FAC-ME-3,Hostel,H-037,,Attendance Review,Not Applicable,Active
+STU-147,DEMO24ME027,Sahana Murthy,ME,5,B,student147@example.com,94,7.95,ROOM-ME-5-B,LAB-ME-1,FAC-ME-3,Day Scholar,,BUS-02,Eligible,Not Applicable,Active
+STU-148,DEMO24ME028,Pranav Joshi,ME,5,B,student148@example.com,86,5.62,ROOM-ME-5-B,LAB-ME-2,FAC-ME-3,Day Scholar,,BUS-04,Eligible,Not Applicable,Active
+STU-149,DEMO24ME029,Bhavana Naik,ME,5,B,student149@example.com,96,6.41,ROOM-ME-5-B,LAB-ME-1,FAC-ME-3,Day Scholar,,BUS-02,Eligible,Not Applicable,Active
+STU-150,DEMO24ME030,Vijay Shetty,ME,5,B,student150@example.com,82,9.29,ROOM-ME-5-B,LAB-ME-2,FAC-ME-3,Day Scholar,,BUS-03,Eligible,Not Applicable,Active
+STU-151,DEMO23ME031,Pranav Naik,ME,7,A,student151@example.com,100,5.54,ROOM-ME-7-A,LAB-ME-1,FAC-ME-4,Day Scholar,,BUS-03,Eligible,Registered,Active
+STU-152,DEMO23ME032,Shreya Shetty,ME,7,A,student152@example.com,80,8.6,ROOM-ME-7-A,LAB-ME-2,FAC-ME-4,Hostel,H-038,,Eligible,Not Registered,Active
+STU-153,DEMO23ME033,Aarav Rao,ME,7,A,student153@example.com,95,8.28,ROOM-ME-7-A,LAB-ME-1,FAC-ME-4,Day Scholar,,BUS-02,Eligible,Not Registered,Active
+STU-154,DEMO23ME034,Pooja Rao,ME,7,A,student154@example.com,70,6.77,ROOM-ME-7-A,LAB-ME-2,FAC-ME-4,Day Scholar,,BUS-01,Attendance Review,Not Registered,Active
+STU-155,DEMO23ME035,Sanjay Kulkarni,ME,7,A,student155@example.com,84,8.36,ROOM-ME-7-A,LAB-ME-1,FAC-ME-4,Day Scholar,,BUS-02,Eligible,Not Registered,Active
+STU-156,DEMO23ME036,Sanjay Bhat,ME,7,B,student156@example.com,98,6.98,ROOM-ME-7-B,LAB-ME-2,FAC-ME-4,Day Scholar,,Self,Eligible,Placed,Active
+STU-157,DEMO23ME037,Harish Joshi,ME,7,B,student157@example.com,87,8.52,ROOM-ME-7-B,LAB-ME-1,FAC-ME-4,Day Scholar,,BUS-03,Eligible,Not Registered,Active
+STU-158,DEMO23ME038,Anjali Naik,ME,7,B,student158@example.com,79,6.02,ROOM-ME-7-B,LAB-ME-2,FAC-ME-4,Day Scholar,,BUS-03,Eligible,Registered,Active
+STU-159,DEMO23ME039,Harish Murthy,ME,7,B,student159@example.com,99,9.59,ROOM-ME-7-B,LAB-ME-1,FAC-ME-4,Day Scholar,,BUS-01,Eligible,Placed,Active
+STU-160,DEMO23ME040,Akash Bhat,ME,7,B,student160@example.com,77,6.43,ROOM-ME-7-B,LAB-ME-2,FAC-ME-4,Hostel,H-040,,Eligible,Not Registered,Active
+STU-161,DEMO26CV001,Suman Murthy,CV,1,A,student161@example.com,98,,ROOM-CV-1-A,LAB-CV-1,FAC-CV-1,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-162,DEMO26CV002,Bhavana Kulkarni,CV,1,A,student162@example.com,71,,ROOM-CV-1-A,LAB-CV-2,FAC-CV-1,Day Scholar,,BUS-03,Attendance Review,Not Applicable,Active
+STU-163,DEMO26CV003,Manoj Patil,CV,1,A,student163@example.com,83,,ROOM-CV-1-A,LAB-CV-1,FAC-CV-1,Hostel,H-041,,Eligible,Not Applicable,Active
+STU-164,DEMO26CV004,Sanjay Patil,CV,1,A,student164@example.com,88,,ROOM-CV-1-A,LAB-CV-2,FAC-CV-1,Hostel,H-041,,Eligible,Not Applicable,Active
+STU-165,DEMO26CV005,Lakshmi Naik,CV,1,A,student165@example.com,84,,ROOM-CV-1-A,LAB-CV-1,FAC-CV-1,Hostel,H-042,,Eligible,Not Applicable,Active
+STU-166,DEMO26CV006,Arjun Rao,CV,1,B,student166@example.com,99,,ROOM-CV-1-B,LAB-CV-2,FAC-CV-1,Hostel,H-042,,Eligible,Not Applicable,Active
+STU-167,DEMO26CV007,Pranav Bhat,CV,1,B,student167@example.com,82,,ROOM-CV-1-B,LAB-CV-1,FAC-CV-1,Hostel,H-042,,Eligible,Not Applicable,Active
+STU-168,DEMO26CV008,Deepak Naik,CV,1,B,student168@example.com,68,,ROOM-CV-1-B,LAB-CV-2,FAC-CV-1,Hostel,H-042,,Attendance Review,Not Applicable,Active
+STU-169,DEMO26CV009,Anjali Hegde,CV,1,B,student169@example.com,73,,ROOM-CV-1-B,LAB-CV-1,FAC-CV-1,Day Scholar,,BUS-03,Attendance Review,Not Applicable,Active
+STU-170,DEMO26CV010,Sahana Shetty,CV,1,B,student170@example.com,71,,ROOM-CV-1-B,LAB-CV-2,FAC-CV-1,Day Scholar,,BUS-04,Attendance Review,Not Applicable,Active
+STU-171,DEMO25CV011,Rohan Bhat,CV,3,A,student171@example.com,83,7.52,ROOM-CV-3-A,LAB-CV-1,FAC-CV-2,Hostel,H-043,,Eligible,Not Applicable,Active
+STU-172,DEMO25CV012,Nandini Bhat,CV,3,A,student172@example.com,76,9.65,ROOM-CV-3-A,LAB-CV-2,FAC-CV-2,Day Scholar,,BUS-03,Eligible,Not Applicable,Active
+STU-173,DEMO25CV013,Lakshmi Patil,CV,3,A,student173@example.com,72,9.04,ROOM-CV-3-A,LAB-CV-1,FAC-CV-2,Day Scholar,,BUS-04,Attendance Review,Not Applicable,Active
+STU-174,DEMO25CV014,Chandan Gowda,CV,3,A,student174@example.com,69,7.98,ROOM-CV-3-A,LAB-CV-2,FAC-CV-2,Day Scholar,,BUS-04,Attendance Review,Not Applicable,Active
+STU-175,DEMO25CV015,Sahana Joshi,CV,3,A,student175@example.com,74,6.14,ROOM-CV-3-A,LAB-CV-1,FAC-CV-2,Day Scholar,,BUS-01,Attendance Review,Not Applicable,Active
+STU-176,DEMO25CV016,Aarav Shetty,CV,3,B,student176@example.com,70,9.77,ROOM-CV-3-B,LAB-CV-2,FAC-CV-2,Day Scholar,,BUS-03,Attendance Review,Not Applicable,Active
+STU-177,DEMO25CV017,Nikhil Kulkarni,CV,3,B,student177@example.com,100,8.79,ROOM-CV-3-B,LAB-CV-1,FAC-CV-2,Hostel,H-045,,Eligible,Not Applicable,Active
+STU-178,DEMO25CV018,Raksha Patil,CV,3,B,student178@example.com,79,8.84,ROOM-CV-3-B,LAB-CV-2,FAC-CV-2,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-179,DEMO25CV019,Bhavana Joshi,CV,3,B,student179@example.com,93,6.78,ROOM-CV-3-B,LAB-CV-1,FAC-CV-2,Day Scholar,,BUS-04,Eligible,Not Applicable,Active
+STU-180,DEMO25CV020,Ashwini Hegde,CV,3,B,student180@example.com,84,7.95,ROOM-CV-3-B,LAB-CV-2,FAC-CV-2,Day Scholar,,BUS-04,Eligible,Not Applicable,Active
+STU-181,DEMO24CV021,Aditya Shetty,CV,5,A,student181@example.com,71,9.57,ROOM-CV-5-A,LAB-CV-1,FAC-CV-3,Hostel,H-046,,Attendance Review,Not Applicable,Active
+STU-182,DEMO24CV022,Megha Murthy,CV,5,A,student182@example.com,78,6.64,ROOM-CV-5-A,LAB-CV-2,FAC-CV-3,Hostel,H-046,,Eligible,Not Applicable,Active
+STU-183,DEMO24CV023,Rohan Hegde,CV,5,A,student183@example.com,75,6.53,ROOM-CV-5-A,LAB-CV-1,FAC-CV-3,Hostel,H-046,,Eligible,Not Applicable,Active
+STU-184,DEMO24CV024,Akash Rao,CV,5,A,student184@example.com,75,5.51,ROOM-CV-5-A,LAB-CV-2,FAC-CV-3,Day Scholar,,BUS-01,Eligible,Not Applicable,Active
+STU-185,DEMO24CV025,Akash Hegde,CV,5,A,student185@example.com,95,6.75,ROOM-CV-5-A,LAB-CV-1,FAC-CV-3,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-186,DEMO24CV026,Harish Shetty,CV,5,B,student186@example.com,83,8.54,ROOM-CV-5-B,LAB-CV-2,FAC-CV-3,Hostel,H-047,,Eligible,Not Applicable,Active
+STU-187,DEMO24CV027,Aditya Bhat,CV,5,B,student187@example.com,69,8.46,ROOM-CV-5-B,LAB-CV-1,FAC-CV-3,Day Scholar,,BUS-04,Attendance Review,Not Applicable,Active
+STU-188,DEMO24CV028,Sanjay Hegde,CV,5,B,student188@example.com,77,7.33,ROOM-CV-5-B,LAB-CV-2,FAC-CV-3,Day Scholar,,Self,Eligible,Not Applicable,Active
+STU-189,DEMO24CV029,Ananya Gowda,CV,5,B,student189@example.com,74,9.41,ROOM-CV-5-B,LAB-CV-1,FAC-CV-3,Day Scholar,,BUS-02,Attendance Review,Not Applicable,Active
+STU-190,DEMO24CV030,Lakshmi Hegde,CV,5,B,student190@example.com,69,5.76,ROOM-CV-5-B,LAB-CV-2,FAC-CV-3,Hostel,H-048,,Attendance Review,Not Applicable,Active
+STU-191,DEMO23CV031,Harish Hegde,CV,7,A,student191@example.com,83,7.39,ROOM-CV-7-A,LAB-CV-1,FAC-CV-4,Day Scholar,,Self,Eligible,Not Registered,Active
+STU-192,DEMO23CV032,Vishal Kulkarni,CV,7,A,student192@example.com,90,9.55,ROOM-CV-7-A,LAB-CV-2,FAC-CV-4,Day Scholar,,BUS-03,Eligible,Placed,Active
+STU-193,DEMO23CV033,Anjali Gowda,CV,7,A,student193@example.com,93,5.85,ROOM-CV-7-A,LAB-CV-1,FAC-CV-4,Day Scholar,,BUS-04,Eligible,Registered,Active
+STU-194,DEMO23CV034,Shreya Joshi,CV,7,A,student194@example.com,81,5.61,ROOM-CV-7-A,LAB-CV-2,FAC-CV-4,Day Scholar,,BUS-03,Eligible,Registered,Active
+STU-195,DEMO23CV035,Manoj Murthy,CV,7,A,student195@example.com,66,9.8,ROOM-CV-7-A,LAB-CV-1,FAC-CV-4,Day Scholar,,Self,Attendance Review,Placed,Active
+STU-196,DEMO23CV036,Pranav Gowda,CV,7,B,student196@example.com,67,8.78,ROOM-CV-7-B,LAB-CV-2,FAC-CV-4,Day Scholar,,Self,Attendance Review,Registered,Active
+STU-197,DEMO23CV037,Raksha Bhat,CV,7,B,student197@example.com,93,9.44,ROOM-CV-7-B,LAB-CV-1,FAC-CV-4,Day Scholar,,Self,Eligible,Registered,Active
+STU-198,DEMO23CV038,Megha Rao,CV,7,B,student198@example.com,96,9.67,ROOM-CV-7-B,LAB-CV-2,FAC-CV-4,Day Scholar,,BUS-04,Eligible,Not Registered,Active
+STU-199,DEMO23CV039,Shreya Rao,CV,7,B,student199@example.com,86,6.88,ROOM-CV-7-B,LAB-CV-1,FAC-CV-4,Day Scholar,,BUS-04,Eligible,Registered,Active
+STU-200,DEMO23CV040,Suman Kulkarni,CV,7,B,student200@example.com,86,7.27,ROOM-CV-7-B,LAB-CV-2,FAC-CV-4,Hostel,H-050,,Eligible,Not Registered,Active

@@ -8,6 +8,7 @@ frontend/.env
 # Student dataset (do not commit sensitive student data to public repositories)
 data/*.csv
 !data/.gitkeep
+!backend/app/data/*.csv
 
 # Python
 __pycache__/

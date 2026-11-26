@@ -6,8 +6,10 @@ from dotenv import load_dotenv
 
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
 BACKEND_DIR = Path(__file__).resolve().parent.parent
-DATA_DIR = BASE_DIR / "data"
-CSV_PATH = DATA_DIR / "omnis_x_200_students(1).csv"
+ROOT_DATA_CSV = BASE_DIR / "data" / "omnis_x_200_students(1).csv"
+BUNDLED_DATA_CSV = BACKEND_DIR / "app" / "data" / "omnis_x_200_students(1).csv"
+CSV_PATH = ROOT_DATA_CSV if ROOT_DATA_CSV.exists() else BUNDLED_DATA_CSV
+DATA_DIR = CSV_PATH.parent
 
 load_dotenv(BACKEND_DIR / ".env")
 load_dotenv(BASE_DIR / ".env")
